@@ -1,0 +1,38 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.label {
+	-fx-font: italic 10pt serif;
+}
+
+.text-field {
+	-fx-font: bold 20pt sans-serif;
+	-fx-alignment: center-right;
+}
+
+.button {
+	-fx-font: 10pt sans-serif;
+	-fx-text-fill: white;
+	-fx-background-color: black;
+}
+
+.button:hover {
+	-fx-background-color: gray;
+}
+
+.button1 {
+	-fx-background-color: navy;
+}
+
+.clear-button {
+	-fx-font-size: 10pt;
+	-fx-text-fill: black;
+	-fx-background-color: orange;
+}
+
+.button3 {
+	-fx-font-size: 10pt;
+}
+
+.vbox {
+	-fx-padding: 6px;
+	-fx-background-color: silver;
+}
